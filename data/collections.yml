@@ -22,16 +22,16 @@
 #         - file: ../content/dolphins/index.md
 #         - file: ../content/whales/index.md
 
-- id: introduction
-  title: Introduction
-  description: Brief overview of the free help center
+- id: policies
+  title: Policies
+  description: Brief overview what our policies are.
   icon: "FaRegHandPeace"
   articles:
     - file: ../content/welcome/index.md
 
-- id: features-and-nonfeatures
-  title: Features and Non-Features
-  description: Everything the Free Help Center offers out of the box
+- id: standards
+  title: Standards
+  description: Everything you need to know about our standards. 
   icon: "FaBox"
   sections:
     - id: features
@@ -43,8 +43,8 @@
       articles:
         - file: ../content/comparison-to-saas/index.md
 
-- id: usage
-  title: Usage
+- id: guidelines
+  title: Guidelines
   description: Setup and usage guides for the free help center
   icon: "FaRegListAlt"
   sections:
@@ -75,8 +75,8 @@
       articles:
         - file: ../content/deploy/index.md
 
-- id: giving-back
-  title: Giving back
+- id: contact-centre
+  title: Contact Center
   description: 'Options in case you want to say "thank you"'
   icon: "FaPeopleCarry"
   articles:
