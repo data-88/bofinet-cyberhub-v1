@@ -4,7 +4,7 @@ module.exports = {
     author: `Dominik Ferber`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
+    description: `Welcome to the Infosec Resource Center`,
     siteUrl: `https://help.dferber.de/`,
     language: "en",
     texts: {
